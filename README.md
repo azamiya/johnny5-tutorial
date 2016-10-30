@@ -24,4 +24,4 @@ $ node index.js
 
 ### References ###
 [http://johnny-five.io/examples/grove-touch/](http://johnny-five.io/examples/grove-touch/)  
-[http://qiita.com/kgbu/items/2481df0ef2e82c43e6a7](Unlimited Handことはじめ　Serial接続でコントロール)
+[Unlimited Handことはじめ　Serial接続でコントロール](http://qiita.com/kgbu/items/2481df0ef2e82c43e6a7)
