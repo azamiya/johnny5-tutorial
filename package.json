@@ -1,0 +1,25 @@
+{
+  "name": "johnny5-tutorial",
+  "version": "1.0.0",
+  "description": "to learn how to use johnny-five",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdra0624/johnny5-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdra0624/johnny5-tutorial/issues"
+  },
+  "homepage": "https://github.com/cdra0624/johnny5-tutorial#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "johnny-five": "^0.10.3",
+    "socket.io": "^1.5.1"
+  }
+}
